@@ -48,6 +48,7 @@ Three interactive mini-games were implemented within the environment to improve 
 
 UI & Interaction System
 Interactive UI panels were designed for room creation, settings, and game controls. The UI was optimized for VR usage, ensuring it is easily accessible and user-friendly within the 3D space.
+![Description](1.jepg)
 
 Testing & Optimization
 The project was thoroughly tested to ensure smooth performance, proper synchronization between players, and a seamless user experience. Optimization techniques were applied to maintain stable frame rates and reduce latency in VR.
