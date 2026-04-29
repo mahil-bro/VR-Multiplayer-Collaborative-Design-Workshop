@@ -51,3 +51,4 @@ Interactive UI panels were designed for room creation, settings, and game contro
 
 Testing & Optimization
 The project was thoroughly tested to ensure smooth performance, proper synchronization between players, and a seamless user experience. Optimization techniques were applied to maintain stable frame rates and reduce latency in VR.
+
